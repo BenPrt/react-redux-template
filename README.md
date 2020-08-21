@@ -1,6 +1,5 @@
-# My React-Redux App template
-
-This repository contains my favorite React-Redux project set-up.
+# Happy Birthday Kate
+This repository contains a little project for my girlfriend birthday
 
 ## Available Scripts
 
