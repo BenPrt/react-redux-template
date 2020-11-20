@@ -1,5 +1,5 @@
-# Happy Birthday Kate
-This repository contains a little project for my girlfriend birthday
+# React/Redux Template
+This repository contains a basic template for a React/Redux app. 
 
 ## Available Scripts
 
